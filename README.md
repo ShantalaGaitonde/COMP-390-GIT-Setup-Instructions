@@ -17,7 +17,7 @@ brew install git
   - Git Bash Here and Git GUI Here (important for right-click options)
   - Git LFS (Large File Support) (optional). Click Next. 
 7. Choose the default start menu folder or change it if needed. Click Next. 
-8. Click Next 
+8. Click Next - All the way untill the end.
 9. Click Finish
 
 ## Verify Installation
