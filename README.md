@@ -29,12 +29,12 @@ git --version
 ## Create a new repository
 1. Login to github.com
 2. Click on `+` on the upper right corner and select "New Repository"
-   
+![](https://github.com/ShantalaGaitonde/comp390-git-instructions/blob/main/create-button-location.png?raw=true)
 3. Name the repository hello-world.
 4. Add a description if you like.
 5. Ensure the `Public` is selected.
 6. Check the box that says Add a README file.
-
+![](https://github.com/ShantalaGaitonde/comp390-git-instructions/blob/main/create-repository.png?raw=true)
 7. Click on "Create Repository".
 
 ## Checkout repository to your local machine
@@ -76,7 +76,8 @@ git push
 
 ## Create a Pull Request
 1. Go to your repository on GitHub. 
-2. You will see a Compare & pull request button appear after pushing your branch. 
+2. You will see a Compare & pull request button appear after pushing your branch.
+![](https://github.com/ShantalaGaitonde/comp390-git-instructions/blob/main/create-pull-request.png?raw=true)
 3. Click on it. 
 4. Review the changes, add a title, and a description for the pull request. 
 5. Click Create pull request.
